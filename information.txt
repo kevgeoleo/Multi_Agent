@@ -1,0 +1,10 @@
+Context Window Limit for DeepSeek V3-0324
+    This model supports a massive up to 131,072 tokens of context 
+    That roughly translates to 100,000 words (or about 192 A4 pages of text)
+
+So this model would be enough for a few rounds of conversation between the agents for now 
+If this is exceeded then I would suggest to use an agent to summarize conversations upto a level
+and then provide the input to the next agent. This way, limits cannot be exceeded 
+
+Prompt: Give me a code for multi agent bot communication which uses deepseek v3 (free) in open router. they communicate with eachother to generate python code
+Improved Prompt: Write Python code for a multi-agent chatbot system where each agent has a distinct role (e.g., research assistant, planner, coder, critic, summarizer). The agents communicate in sequence, sharing and refining information. The system should use the DeepSeek V3 (free) model via the OpenRouter API for all agent responses

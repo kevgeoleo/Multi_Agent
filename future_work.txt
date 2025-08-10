@@ -1,0 +1,4 @@
+evaluation can be further automated
+can make the AI agent generate task scripts 
+can run task script using evaluation code 
+check metrics 
