@@ -24,8 +24,6 @@ In **VSCode terminal**, run:
 $env:OPENROUTER_API_KEY = "insert_your_openrouter_api_key_here"
 ```
 
-````
-
 ---
 
 ### 📦 Step 3: Install Dependencies
@@ -84,4 +82,5 @@ The hardcoded tasks and expected results were generated using OpenAI GPT-5.
 Automate the step of generating tasks and expected results using an LLM.
 
 ```
-````
+
+```
