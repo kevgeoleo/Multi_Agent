@@ -1,9 +1,7 @@
 import os
 import json
 import difflib
-import subprocess
 from typing import List, Dict
-import openai
 import requests
 import time 
 
