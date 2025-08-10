@@ -1,6 +1,3 @@
-Here’s your content cleaned up and formatted as proper Markdown for a `README.md`:
-
-````markdown
 ## ✅ Prerequisites
 
 - Python 3.8 or later
@@ -26,6 +23,7 @@ In **VSCode terminal**, run:
 ```powershell
 $env:OPENROUTER_API_KEY = "insert_your_openrouter_api_key_here"
 ```
+
 ````
 
 ---
@@ -86,6 +84,4 @@ The hardcoded tasks and expected results were generated using OpenAI GPT-5.
 Automate the step of generating tasks and expected results using an LLM.
 
 ```
-
-This is now fully Markdown-compliant, properly sectioned, and copy-paste ready for GitHub.
-```
+````
