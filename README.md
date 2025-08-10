@@ -34,8 +34,6 @@ Install required libraries using:
 pip install -r requirements.txt
 ```
 
----
-
 ## 📄 Information for Users
 
 ### 1. `1_multi_agent_deepseek.py`
